@@ -1,0 +1,14 @@
+[
+    {
+        "organizationName": "Temadigital",
+        "numberOfEmployees": 10,
+        "fullTimeTrainers": 6,
+        "partTimeTrainers": 4
+    },
+    {
+        "organizationName": "Reliance",
+        "numberOfEmployees": 12,
+        "fullTimeTrainers": 4,
+        "partTimeTrainers": 8
+    }
+]
